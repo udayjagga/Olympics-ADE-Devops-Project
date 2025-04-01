@@ -1,0 +1,17 @@
+[
+    {
+        "p_relativeURL" : "udayjagga/Olympics-ADE-Devops-Project/refs/heads/main/DataResources/athletes.csv",
+        "p_folder" : "athletes",
+        "p_file" : "athletes.parquet"
+    },
+    {
+        "p_relativeURL" : "udayjagga/Olympics-ADE-Devops-Project/refs/heads/main/DataResources/coaches.csv",
+        "p_folder" : "coaches",
+        "p_file" : "coaches.parquet"
+    },
+    {
+        "p_relativeURL" : "udayjagga/Olympics-ADE-Devops-Project/refs/heads/main/DataResources/events.csv",
+        "p_folder" : "events",
+        "p_file" : "events.parquet"
+    }
+]
